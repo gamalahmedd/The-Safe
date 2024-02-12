@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "The Safe", "The Safe\The Safe.cproj", "{51429266-342F-46C9-9859-822C1113BA90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51429266-342F-46C9-9859-822C1113BA90}.Debug|AVR.ActiveCfg = Debug|AVR
+		{51429266-342F-46C9-9859-822C1113BA90}.Debug|AVR.Build.0 = Debug|AVR
+		{51429266-342F-46C9-9859-822C1113BA90}.Release|AVR.ActiveCfg = Release|AVR
+		{51429266-342F-46C9-9859-822C1113BA90}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
